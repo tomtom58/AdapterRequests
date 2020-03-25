@@ -1,0 +1,20 @@
+Hallo
+
+Ich habe eine Varta Storage Element und würde dieses Storage gerne abfragen.
+Einen "externen" Logger alá Smartlog habe ich nicht.
+Leider gibt es von Varta keine Informationen über Modbus oder SunSpec, obwohl die neuen Modelle Sunspec können.
+
+Hat jemand einen Ansatz wie man die Batterie zur Herausgabe von Informationen überreden kann?
+
+#################
+
+Hi there
+
+I have a Varta Storage Element and would like to query this storage.
+I don't have an "external" logger alá Smartlog.
+Unfortunately there is no information from Varta about Modbus or SunSpec, although the new models can Sunspec.
+
+Does anyone have an approach on how to persuade the battery to provide information?
+
+
+Thx Tom
